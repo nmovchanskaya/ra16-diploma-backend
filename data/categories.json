@@ -1,18 +1,18 @@
 [
     {
         "id": 12,
-        "title": "Мужская обувь"
+        "title": "Men"
     },
     {
         "id": 13,
-        "title": "Женская обувь"
+        "title": "Women"
     },
     {
         "id": 14,
-        "title": "Обувь унисекс"
+        "title": "Unisex"
     },
     {
         "id": 15,
-        "title": "Детская обувь"
+        "title": "Children"
     }
 ]
