@@ -4,8 +4,8 @@
         "category": 12,
         "title": "Boots",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5383-040-13.jpg",
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5383-040-13.jpg"
+          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5383-040-13.jpg",
+          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5383-040-13.jpg"
         ],
         "sku": "1000000",
         "manufacturer": "Chanel",
@@ -32,8 +32,8 @@
         "category": 13,
         "title": "Elly",
         "images": [
-          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5311-101-02.jpeg",
-          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5311-101-02.jpeg"
+          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5311-101-02.jpg",
+          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5311-101-02.jpg"
         ],
         "sku": "1000001",
         "manufacturer": "Tony's",
@@ -438,7 +438,7 @@
         "category": 14,
         "title": "Tony",
         "images": [
-            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5383-040-21.jpeg"
+            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5383-040-21.jpg"
         ],
         "sku": "1000016",
         "manufacturer": "New Balance",
@@ -464,8 +464,8 @@
         "category": 13,
         "title": "Boots",
         "images": [
-            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5048-301-20.jpeg",
-            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5048-301-20.jpeg"
+            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5048-301-20.jpg",
+            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5048-301-20.jpg"
         ],
         "sku": "1000017",
         "manufacturer": "New Balance",
