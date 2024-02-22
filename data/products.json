@@ -32,8 +32,8 @@
         "category": 13,
         "title": "Elly",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/princess_shoes.jpg",
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/princess_shoes_2.jpg"
+          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5311-101-02.jpeg",
+          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5311-101-02.jpeg"
         ],
         "sku": "1000001",
         "manufacturer": "Tony's",
@@ -59,7 +59,7 @@
         "category": 13,
         "title": "Tim",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/shoes_with_windows.jpg"
+          "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5608-001-20.jpg"
         ],
         "sku": "1000002",
         "manufacturer": "Dolce & Gabbana",
@@ -85,8 +85,7 @@
         "category": 13,
         "title": "Tilly",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/insect_sneakers.jpg",
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/insect_sneakers_2.jpg"
+            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5707-183-81.jpg"
         ],
         "sku": "1000003",
         "manufacturer": "Dolce & Gabbana",
@@ -112,9 +111,9 @@
         "category": 13,
         "title": "Carry",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/outgoing_shoes.jpg",
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/outgoing_shoes_2.jpg"
-        ],
+            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5733-260-09.jpg",
+            "https://raw.githubusercontent.com/nmovchanskaya/ra16-diploma-backend/master/data/img/5733-260-09.jpg"
+    ],
         "sku": "1000004",
         "manufacturer": "Dolce & Gabbana",
         "color": "Black",
@@ -166,7 +165,8 @@
         "category": 14,
         "title": "Ann",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/sneakers_from_the_market.jpg"
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5733-401-20.jpeg",
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5733-401-20.jpeg"
         ],
         "sku": "1000006",
         "manufacturer": "Dolce & Gabbana",
@@ -192,7 +192,8 @@
         "category": 14,
         "title": "Boots",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/colorful_sneakers.jpg"
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5739-001-02.jpg",
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5739-001-02.jpg"
         ],
         "sku": "1000007",
         "manufacturer": "Chanel",
@@ -219,8 +220,8 @@
         "category": 13,
         "title": "Elly",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/dalmatian_shoes.jpg",
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/dalmatian_shoes_2.jpg"
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5739-183-79.jpg",
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5739-183-79.jpg"
         ],
         "sku": "1000008",
         "manufacturer": "Chanel",
@@ -246,8 +247,8 @@
         "category": 13,
         "title": "Bea",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/transparent_boots.jpg",
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/transparent_boots_2.jpg"
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5740-401-20.jpg",
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5740-401-20.jpg"
         ],
         "sku": "1000009",
         "manufacturer": "Chanel",
@@ -300,8 +301,8 @@
         "category": 13,
         "title": "Lilu",
         "images": [
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/shoes_like_carrie.jpg",
-          "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/shoes_like_carrie_2.jpg"
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5814-202-20.jpg",
+            "https://raw.githubusercontent.com/netology-code/ra16-diploma/master/html/img/products/5814-202-20.jpg"
         ],
         "sku": "1000011",
         "manufacturer": "Manolo Blahnik",
